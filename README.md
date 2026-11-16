@@ -142,3 +142,5 @@ Pytest covers raster loading, explicit radiometric conversion, scale/offset, ali
 - `tools/fetch_real_pair.py`: reproducible genuine RTC sample retrieval.
 
 For a hosted deployment, configure per-process memory/concurrency limits and HTTPS; this bounded Streamlit demo is not a validated operational flood-warning service.
+
+Project video demo : https://vimeo.com/reviews/c4a9403c-4f89-4199-aad5-1b6ef01b8978/videos/1247179045
