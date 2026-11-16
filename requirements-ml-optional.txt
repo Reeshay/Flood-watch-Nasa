@@ -1,0 +1,2 @@
+# Install the matching CUDA wheel separately if GPU support is needed.
+torch>=2.6,<3
